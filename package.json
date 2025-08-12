@@ -1,7 +1,7 @@
 {
-    "name": "com.nitou.my-package-name",
+    "name": "com.nitou.batch-processor",
     "version": "0.1.0",
-    "displayName": "",
+    "displayName": "Batch Processor",
     "description": "",
     "author": {
         "name": "Nitou",
